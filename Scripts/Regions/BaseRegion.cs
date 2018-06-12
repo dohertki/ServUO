@@ -261,6 +261,7 @@ namespace Server.Regions
                     m.SendGump(new YoungDungeonWarning());
                 }
             }
+
         }
 
         public override bool AcceptsSpawnsFrom(Region region)

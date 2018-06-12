@@ -104382,7 +104382,7 @@
     <CentreX>3547</CentreX>
     <CentreY>2462</CentreY>
     <CentreZ>15</CentreZ>
-    <Range>0</Range>
+    <Range>5</Range>
     <MaxCount>1</MaxCount>
     <MinDelay>5</MinDelay>
     <MaxDelay>10</MaxDelay>
