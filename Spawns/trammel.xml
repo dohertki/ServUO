@@ -96812,20 +96812,20 @@
     <Objects2>ettin:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=ghoul:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=headlessone:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=ogre:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=orc:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=orcishmage:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=skeleton:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1:OBJ=troll:MX=8:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1</Objects2>
   </Points>
   <Points>
-    <Name>Vendors#181</Name>
+    <Name>Spawner</Name>
     <UniqueId>e8287b72-50c4-4955-a31a-9283ef5a118d</UniqueId>
     <Map>Trammel</Map>
-    <X>3554</X>
-    <Y>2457</Y>
+    <X>3547</X>
+    <Y>2463</Y>
     <Width>0</Width>
     <Height>0</Height>
-    <CentreX>3554</CentreX>
-    <CentreY>2457</CentreY>
+    <CentreX>3547</CentreX>
+    <CentreY>2463</CentreY>
     <CentreZ>15</CentreZ>
-    <Range>6</Range>
-    <MaxCount>2</MaxCount>
+    <Range>0</Range>
+    <MaxCount>1</MaxCount>
     <MinDelay>5</MinDelay>
-    <MaxDelay>10</MaxDelay>
+    <MaxDelay>10/</MaxDelay>
     <DelayInSec>False</DelayInSec>
     <Duration>0</Duration>
     <DespawnTime>0</DespawnTime>
@@ -96851,7 +96851,7 @@
     <IsGroup>False</IsGroup>
     <IsRunning>True</IsRunning>
     <IsHomeRangeRelative>False</IsHomeRangeRelative>
-    <Objects2>evilwanderinghealer:MX=2:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1</Objects2>
+    <Objects2>Morganna:MX=1:SB=0:RT=0:TO=0:KL=0:RK=0:CA=1:DN=-1:DX=-1:SP=1:PR=-1</Objects2>
   </Points>
   <Points>
     <Name>Vendors#14</Name>
